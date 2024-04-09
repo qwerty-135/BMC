@@ -1,0 +1,8 @@
+Django
+drain3
+numpy
+pandas
+paramiko==3.4.0 # Optional
+scikit_learn
+torch # Optional
+tqdm # Optional
